@@ -99,4 +99,10 @@ remove punctuation:
 889df1f5802774a5d245be78b17e56a01f16128664883e73b9025e7b782e0f7eb061f1697ba9aa4641f1cc27519773e74e58e5f208abb64a8ee1b0f6e4770278
 ```
 Replace hexStrCipher in the code:
+![](https://github.com/Secd0g/go-DecryptTeamViewer/blob/master/1.png)
 
+runing result:
+![](https://github.com/Secd0g/go-DecryptTeamViewer/blob/master/2.png)
+
+## reference
+https://whynotsecurity.com/blog/teamviewer/
